@@ -1,0 +1,84 @@
+=====================================================
+GOOGLE VIDS COPY-PASTE PROMPTS
+Video: "Which One Are You?" (10 seconds)
+=====================================================
+
+SCENE 1 - OPENING (0-1 sec)
+Duration: 1 second
+Voiceover: "Which one are you?"
+
+PROMPT:
+Generate a 1-second opening title card. Text: "WHICH ONE ARE YOU?" in large, bold, white sans-serif font (Helvetica or Montserrat Bold). Background: Dark solid color (dark gray or black). Animation: Text appears with a quick pop-in effect, slightly bouncy. Style: Minimalist, high contrast, attention-grabbing. Aspect ratio: 9:16 vertical.
+
+---
+
+SCENE 2 - THE WRONG WAY (1-5 sec)
+Duration: 4 seconds
+Voiceover: "This way: earn, spend, save nothing."
+
+PROMPT:
+Create a 4-second animated flow diagram showing money management. Left side: Icon of a paycheck or money bag entering (green arrow pointing right). Middle: Icon of spending (cash, shopping bags) leaving (red arrow pointing right). Right side: Icon of a piggy bank, but EMPTY (gray, depleted look). Labels: "EARN" → "SPEND" → "SAVE (nothing)". Colors: Gray and desaturated tones for this "wrong" flow. Animation: Money flows left to right smoothly, then the savings box appears empty with a sad shake. Text overlay at bottom: "❌ 90% of people". Aspect ratio: 9:16 vertical, centered.
+
+---
+
+SCENE 3 - THE RIGHT WAY (5-9 sec)
+Duration: 4 seconds
+Voiceover: "Or this way: earn, save FIRST, then spend."
+
+PROMPT:
+Create a 4-second animated flow diagram, SAME LAYOUT as Scene 2 but REORDERED. Left side: Paycheck icon (green arrow). Middle: Piggy bank (FILLED, glowing green or gold). Right side: Spending icon showing available funds. Labels: "EARN" → "SAVE FIRST" → "SPEND". Colors: Bright green and gold tones to signal this is the "right" way. The savings box GLOWS and fills up. Animation: Money flows left to right. The SAVE box fills first (bars rising), glowing. Then the SPEND box lights up with available money. Text overlay at bottom: "✅ Wealthy people". Visual effect: Add a subtle glow effect around the savings box. Aspect ratio: 9:16 vertical, centered, SAME STYLE as Scene 2 for easy comparison.
+
+---
+
+SCENE 4 - CALL TO ACTION (9-10 sec)
+Duration: 1 second
+Voiceover: "Find out in my bio."
+
+PROMPT:
+Generate a 1-second closing call-to-action screen. Show the FinanzAcademy logo or brand name in the center. Text overlay (large): "Click link in bio ✨". Background: Dark color. Animation: Fade in from previous scene, logo appears with slight scale-up effect. Add a subtle animated arrow pointing upward (↑) to indicate "go to bio/profile". Aspect ratio: 9:16 vertical.
+
+=====================================================
+VOICEOVER SCRIPT (Text-to-Speech Ready)
+=====================================================
+
+Which one are you?
+This way: earn, spend, save nothing.
+Or this way: earn, save FIRST, then spend.
+Find out in my bio.
+
+Speed: Natural, energetic, no pauses between sentences.
+Tone: Confident, direct.
+
+=====================================================
+INSTRUCTIONS TO USE IN GOOGLE VIDS
+=====================================================
+
+1. Go to Google Vids (https://vids.google.com)
+2. Click "Create new video"
+3. Set duration: 10 seconds
+4. Set aspect ratio: 9:16 (vertical for social)
+5. For each scene above, copy the PROMPT text
+6. Paste into Google Vids' text-to-video input box
+7. Click "Generate" and wait for the scene
+8. Review and regenerate if needed
+9. Add all 4 scenes in sequence
+10. Add voiceover (use text-to-speech or upload audio)
+11. Export as MP4, vertical format
+12. Upload to Instagram Reels, TikTok, YouTube Shorts
+
+=====================================================
+QUICK CHECKLIST
+=====================================================
+
+☐ Scene 1: Title card looks attention-grabbing
+☐ Scene 2: Gray/empty savings is visually clear (BAD way)
+☐ Scene 3: Green/glowing savings is visually clear (GOOD way)
+☐ Scene 4: CTA with logo and arrow, fade-out clean
+☐ Voiceover timing matches scenes (no overlap)
+☐ Total duration: exactly 10 seconds
+☐ Aspect ratio: 9:16 vertical
+☐ Transitions between scenes are smooth
+☐ Text is readable (not too small)
+☐ Ready to post
+
+=====================================================

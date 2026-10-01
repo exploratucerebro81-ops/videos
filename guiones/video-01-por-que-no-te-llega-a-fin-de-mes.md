@@ -3,7 +3,7 @@
 | Campo | Valor |
 |---|---|
 | Plataformas | Instagram Reels, TikTok, YouTube Shorts |
-| Duración | **15-20 s** |
+| Duración | **10 segundos máximo** |
 | Formato | Vertical 9:16 |
 | Tema | Curiosity loop: dos formas de ver el dinero (sin revelar) |
 | Objetivo | Tráfico a la web (la gente quiere saber el secreto) |
@@ -21,21 +21,21 @@
 
 | # | Tiempo | Texto en pantalla | Voz en off | Visual |
 |---|---|---|---|---|
-| 1 | 0-2 s | **¿Sabes la diferencia?** | "¿Sabes cuál es la diferencia entre quien ahorra y quien no?" | Punto de interrogación o signo de exclamación grande. |
-| 2 | 2-8 s | ❌ Cobro → Gasto → Ahorro | "Esto hace casi todo el mundo: cobra, gasta… y lo que sobra lo ahorra." | Gráfico/animación simple: dinero entra, dinero sale, casi nada queda. |
-| 3 | 8-15 s | ✅ Cobro → Ahorro → Gasto | "Pero quien realmente ahorra hace esto: cobra… y lo primero es guardar. El resto ya lo sabe." | Mismo gráfico reordenado: la caja del ahorro se llena primero, se ilumina. |
-| 4 | 15-20 s | ¿Cuál es tu forma? En mi perfil te digo todo. | "¿En cuál de estas dos estás? Todo explicado en el link de mi perfil. Anda, entra." | Logo + flecha apuntando al perfil. Transición rápida. |
+| 1 | 0-1 s | **¿Cuál eres?** | "¿Cuál eres?" | Texto grande, blanco, bold. Fondo oscuro. |
+| 2 | 1-5 s | ❌ Pay → Spend → Save (empty) | "This way: earn, spend, save nothing." | Gráfico flujo: dinero entra, dinero sale, caja vacía. Colores grises. |
+| 3 | 5-9 s | ✅ Pay → Save → Spend (full) | "Or this way: earn, save FIRST, then spend." | Mismo gráfico reordenado: ahorro lleno, verde brillante, movimiento. |
+| 4 | 9-10 s | Click link in bio. ✨ | "Find out in my bio." | Logo FinanzAcademy + flecha hacia arriba. Fade out. |
 
-**Duración de la voz:** ~50 palabras ≈ 18-20 s a ritmo natural y directo.
+**Duración de la voz:** ~30 palabras ≈ 10 s (ritmo rápido, sin pausas).
 
 ---
 
 ## Texto completo de la voz en off (para pegar en Google Vids)
 
-> ¿Sabes cuál es la diferencia entre quien ahorra y quien no?
-> Esto hace casi todo el mundo: cobra, gasta… y lo que sobra lo ahorra.
-> Pero quien realmente ahorra hace esto: cobra… y lo primero es guardar.
-> ¿En cuál de estas dos estás? Todo explicado en el link de mi perfil. Anda, entra.
+> Which one are you?
+> This way: earn, spend, save nothing.
+> Or this way: earn, save FIRST, then spend.
+> Find out in my bio.
 
 ---
 
