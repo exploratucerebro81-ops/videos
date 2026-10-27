@@ -25,3 +25,12 @@
 - Probar voiceover (texto-a-voz o grabar propio).
 - Exportar, revisar timing (debe ser exactamente 10 s).
 - Publicar en Instagram Reels, TikTok, YouTube Shorts.
+
+## 2026-10-27 · Investigación LTX-2.5 (generación de vídeo con IA)
+- **Objetivo:** valorar LTX-2.5 (Lightricks) para generar los clips de los vídeos en lugar de Google Vids o junto a él.
+- **Qué es:** modelo de vídeo con pesos abiertos (Hugging Face) que genera vídeo y audio sincronizados.
+- **Vías de uso:**
+  1. API alojada (fal, nodos de socio de ComfyUI): de pago por segundo, sin GPU propia. Es la opción más sencilla.
+  2. Local / autoalojado (ComfyUI o Diffusers): requiere GPU potente y aceptar la licencia de Hugging Face.
+- **Licencia:** LTX-2.x Community License. Uso comercial gratuito para empresas con menos de 10 M$ de ingresos anuales (verificar condiciones).
+- **Pendiente:** confirmar precio oficial en la web de Lightricks, probar un clip de 10 s con el prompt del video 01 y comparar con Google Vids.
