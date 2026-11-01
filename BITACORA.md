@@ -25,3 +25,12 @@
 - Probar voiceover (texto-a-voz o grabar propio).
 - Exportar, revisar timing (debe ser exactamente 10 s).
 - Publicar en Instagram Reels, TikTok, YouTube Shorts.
+
+## 2026-11-01 · Nuevo: Capi Video Builder (automatización)
+- **Mascota:** Capi, cerdito con traje, gafas pixeladas y cadena de $. Protagonista de todos los vídeos.
+- **Decisiones:** temática finanzas, formato vertical corto (Shorts/TikTok), español, casi 100% automático.
+- **Imágenes:** las genera Justin con IA usando `capi/PROMPTS-CAPI.md` (bloque base + 13 poses).
+- **Motor:** `capi/build.py` (guion.json → voz edge-tts → fotogramas Pillow → montaje ffmpeg → video.mp4).
+- **Probado:** vídeo de ejemplo `capi/proyectos/video-03-ejemplo` (18 s) con la pose `saludo`.
+- **Nota:** edge-tts no tiene red en el entorno cloud; en local sí. Sin red usa silencio estimado.
+- **Siguiente paso:** Justin genera las 13 poses → Claude escribe guiones en lote → mejoras (fondos, cambio de pose animado, música).

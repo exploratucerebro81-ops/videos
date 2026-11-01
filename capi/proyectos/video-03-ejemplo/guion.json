@@ -1,0 +1,12 @@
+{
+  "titulo": "El truco del 10%",
+  "voz": "es-ES-AlvaroNeural",
+  "velocidad": "+8%",
+  "fondo": ["#1b1f3b", "#4b2fa3"],
+  "escenas": [
+    {"titulo": "¿POR QUÉ NO AHORRAS?", "pose": "saludo", "texto": "Oye, ¿sabes por qué nunca te llega el dinero a fin de mes?"},
+    {"titulo": "ERROR #1", "pose": "saludo", "texto": "Ahorras lo que sobra. Y casi nunca sobra nada."},
+    {"titulo": "PÁGATE PRIMERO", "pose": "saludo", "texto": "Los ricos hacen lo contrario: apartan el diez por ciento el día que cobran."},
+    {"titulo": "LINK EN LA BIO", "pose": "saludo", "texto": "Te cuento el método completo en el enlace de mi perfil."}
+  ]
+}
