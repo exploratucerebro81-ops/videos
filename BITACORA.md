@@ -34,3 +34,10 @@
 - **Probado:** vídeo de ejemplo `capi/proyectos/video-03-ejemplo` (18 s) con la pose `saludo`.
 - **Nota:** edge-tts no tiene red en el entorno cloud; en local sí. Sin red usa silencio estimado.
 - **Siguiente paso:** Justin genera las 13 poses → Claude escribe guiones en lote → mejoras (fondos, cambio de pose animado, música).
+
+## 2026-11-01 · Capi Motion (cambio de estilo)
+- **Justin pide:** casi todo el vídeo en motion graphics, movimiento constante, muy llamativo, elementos que ilustran el tema (no solo fotos con zoom).
+- **Motor nuevo:** `capi/motion/` (Remotion + React). Escenas: gancho, contador, barras, gráfico, lista, icono, cierre.
+- **Probado:** `capi/proyectos/video-04-motion/guion-motion.json` → 34 s, ~3 min de render en el entorno cloud.
+- **Pendiente:** el estilo exacto de los canales de referencia (no he podido verlos; esperar capturas de Justin) y las 13 poses de Capi (ahora todo usa `saludo`).
+- **Aviso:** el motor antiguo `capi/build.py` (foto + zoom) queda como plan B simple.

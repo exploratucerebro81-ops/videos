@@ -1,0 +1,14 @@
+{
+  "titulo": "Por qué no te llega el dinero",
+  "voz": "es-ES-AlvaroNeural",
+  "velocidad": "+8%",
+  "escenas": [
+    {"tipo": "gancho", "titulo": "¿POR QUÉ NO TE LLEGA?", "simbolo": "?", "pose": "sorpresa", "texto": "¿Sabes por qué nunca te llega el dinero a fin de mes?"},
+    {"tipo": "contador", "titulo": "COBRAS", "desde": 0, "valor": 1200, "sufijo": " €", "etiqueta": "y en dos semanas... puf", "pose": "triste", "texto": "Cobras mil doscientos euros y desaparecen en dos semanas."},
+    {"tipo": "barras", "titulo": "EL ERROR", "sufijo": "%", "items": [{"etiqueta": "Gastas", "valor": 98}, {"etiqueta": "Ahorras", "valor": 2}], "pose": "enfadado", "texto": "Ahorras lo que sobra. Y casi nunca sobra nada."},
+    {"tipo": "icono", "titulo": "PÁGATE PRIMERO", "icono": "hucha", "etiqueta": "10% el día que cobras", "pose": "señalando", "texto": "Los ricos hacen lo contrario: apartan el diez por ciento el día que cobran."},
+    {"tipo": "grafico", "titulo": "BOLA DE NIEVE", "tendencia": "sube", "etiqueta": "tu dinero en 10 años", "pose": "dinero", "texto": "Cada mes, sin notarlo, y en diez años tu dinero crece solo."},
+    {"tipo": "lista", "titulo": "3 PASOS", "items": ["Cobra", "Aparta el 10%", "Gasta el resto"], "pose": "pulgar", "texto": "Cobra, aparta el diez por ciento, y gasta el resto sin culpa."},
+    {"tipo": "cierre", "titulo": "EL MÉTODO COMPLETO", "boton": "LINK EN LA BIO", "pose": "llamada", "texto": "Te cuento el método completo en el enlace de mi perfil."}
+  ]
+}
